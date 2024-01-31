@@ -136,7 +136,7 @@ $OS07 = "Tesla";
 $OS08 = "Lucid";
 $OS09 = "Yotta";
 
-//add proton and 46 manufacture from gtsport
+//add cars and 46 manufacture from gtsport
 //whether ip is from share internet
 if (!empty($_SERVER['HTTP_CLIENT_IP']))   
   {

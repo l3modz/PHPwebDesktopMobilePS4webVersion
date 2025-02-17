@@ -2,6 +2,7 @@
 //Source Code Detect:UNKNOWN, maybe stackoverflow
 //Copyright [2025] [Parlindungan Isa Anshory Siregar]
 //For Academic/Collage Computer Study Purpose
+//edit copyright for GOODNESS, WISENESS as you want: edited by whitecat.
 
 //edit, save, put at your Android car using AwebServer HTTP Apache PHP SQL
 //edit condition if on file index.php make web desktop your family info/picture fhoto using Chrome that opening at android car.

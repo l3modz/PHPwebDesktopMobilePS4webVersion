@@ -400,7 +400,7 @@ echo'
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Still..</h3>
                             This site base on PHP, pure PHP can see from Desktop, Android, Google Chrome, Firefox and PS4 from different version view but not yet have back end dashboard login.. you can edit it, it base on Apache License
-                           Version 2.0, in my dream visi, it have a Dashboard login for add embed Youtube easyly..<br /><br />add sum for my spirit to coding, $2.5 for continue all device of cars, but my time is tiny..<br /><br />
+                           Version 2.0, in my dream visi, it have a Dashboard login for add embed Youtube easyly..<br /><br />add sum for my spirit to coding, $2 dollar 43 cents for continue all device of cars, but my time is tiny..<br /><br />
                         <p>2022 - ';
                         ?>
                         <?php echo date("Y"); ?>
